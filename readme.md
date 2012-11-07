@@ -7,7 +7,7 @@ It's a week away from much more productive work, but I figured, worst case scena
 
 It was a disappointing week that could have been much better. I ended up not having any fun at all in Vegas, focusing on developing the apps. I returned home haggard and tired, but having learned well the lesson that AppRadio is not a platform I should develop for. 
 
-
+Adding insult to injury, we did not even get to pitch our apps. The decisions of the judges were completely unknown and surprising, even to the winners. The "selected apps" did not seem that innovative, so it will remain a mystery why we were the only two excluded. For what it's worth, and to try salvage an entire week wasted, I'm providing these ideas freely.  
 
 --
 
